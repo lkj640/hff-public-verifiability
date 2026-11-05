@@ -1,0 +1,4 @@
+# Mapping from pseudonymous IDs to original records - never publish
+private/
+__pycache__/
+.DS_Store

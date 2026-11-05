@@ -1,0 +1,612 @@
+record_id,pathway,hff_code,ingredient_en,category_en,recognition_year,code_style_number_without_notified_label,scored,n_retained_articles,verified_date,grade_design,grade_sample,grade_journal,grade_repro,grade_effect,grade_coi,grade_safety,composite_score,funding_category
+IR-001,individually_recognized,,,Body fat,2025,0,1,3,2026-09-12,5,2,4,5,2,3,3,67,not_reported
+IR-002,individually_recognized,,,Skin,2025,0,1,2,2026-09-11,4,3,4,3,4,2,3,66,manufacturer_sponsored_or_led
+IR-003,individually_recognized,,,Body fat,2025,0,1,1,2026-09-12,5,5,5,5,2,4,1,77,independent_documented
+IR-004,individually_recognized,,,Bronchial health,2025,0,1,1,2026-09-12,4,4,4,1,3,2,4,61,manufacturer_sponsored_or_led
+IR-005,individually_recognized,,,Cognitive function,2024,0,1,1,2026-09-11,5,4,4,1,4,3,4,71,not_reported
+IR-006,individually_recognized,,,Menopause,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-007,individually_recognized,,,Liver health,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-008,individually_recognized,,,Skin,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-009,individually_recognized,,,Hair,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-010,individually_recognized,,,Skin,2025,0,1,1,2026-09-12,4,3,4,1,4,2,4,62,manufacturer_sponsored_or_led
+IR-011,individually_recognized,,,Bowel movement,2025,0,0,0,2026-09-12,,,,,,,,,
+IR-012,individually_recognized,,,Body fat,2025,0,1,1,2026-09-11,4,5,4,1,3,3,3,65,not_reported
+IR-013,individually_recognized,,,Digestion/gastric,2024,0,1,1,2026-09-13,5,3,3,1,1,2,5,53,manufacturer_sponsored_or_led
+IR-014,individually_recognized,,,Cognitive function,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-015,individually_recognized,,,Body fat,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-016,individually_recognized,,,Skin,2025,0,0,0,2026-09-13,,,,,,,,,
+IR-017,individually_recognized,,,Eye health,2025,0,1,1,2026-09-13,4,4,2,3,4,3,5,72,not_reported
+IR-018,individually_recognized,,,Sleep,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-019,individually_recognized,,,Eye health,2025,0,1,3,2026-09-12,5,2,4,5,5,2,4,78,manufacturer_sponsored_or_led
+IR-020,individually_recognized,,,Muscle strength,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-021,individually_recognized,,,Body fat,2025,0,0,1,2026-09-12,,,,,,,,,
+IR-022,individually_recognized,,,Muscle strength,2025,0,1,1,2026-09-12,4,1,3,1,4,2,1,48,manufacturer_sponsored_or_led
+IR-023,individually_recognized,,,Bronchial health,2025,0,1,1,2026-09-12,4,5,4,1,3,2,4,64,manufacturer_sponsored_or_led
+IR-024,individually_recognized,,,Height growth,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-025,individually_recognized,,,Body fat,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-026,individually_recognized,,,Gum health,2025,0,1,2,2026-09-12,4,4,4,1,3,2,4,61,manufacturer_sponsored_or_led
+IR-027,individually_recognized,,,Skin,2025,0,1,2,2026-09-12,4,3,4,3,4,2,3,66,manufacturer_sponsored_or_led
+IR-028,individually_recognized,,,Hair,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-029,individually_recognized,,,Eye health,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-030,individually_recognized,,,Eye health,2025,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-031,individually_recognized,,,Body fat,2025,0,1,3,2026-09-12,5,2,4,5,2,3,3,67,not_reported
+IR-032,individually_recognized,,,Skin,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-033,individually_recognized,,,Menopause,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-034,individually_recognized,,,Body fat,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-035,individually_recognized,,,Blood circulation,2025,0,1,1,2026-09-13,5,3,4,1,4,2,1,59,manufacturer_sponsored_or_led
+IR-036,individually_recognized,,,Digestion/gastric,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-037,individually_recognized,,,Joint,2025,0,1,8,2026-09-11,5,5,5,5,4,3,5,90,not_reported
+IR-038,individually_recognized,,,Body fat,2025,0,1,1,2026-09-12,4,5,4,1,4,3,4,71,not_reported
+IR-039,individually_recognized,,,Cognitive function,2025,0,1,1,2026-09-12,5,5,5,4,3,5,1,81,independent_documented
+IR-040,individually_recognized,,,Cognitive function,2025,0,1,1,2026-09-12,5,5,5,4,3,5,1,81,independent_documented
+IR-041,individually_recognized,,,Stress,2025,0,1,1,2026-09-11,5,4,4,1,4,3,4,71,not_reported
+IR-042,individually_recognized,,,Body fat,2025,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-043,individually_recognized,,,Bronchial health,2025,0,1,1,2026-09-12,4,5,4,1,3,2,4,64,manufacturer_sponsored_or_led
+IR-044,individually_recognized,,,Body fat,2026,0,1,1,2026-09-12,5,4,4,1,4,4,4,74,independent_documented
+IR-045,individually_recognized,,,Digestion/gastric,2025,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-046,individually_recognized,,,Gum health,2026,0,0,0,2026-09-13,,,,,,,,,
+IR-047,individually_recognized,,,Body fat,2026,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-048,individually_recognized,,,Digestion/gastric,2024,0,1,1,2026-09-13,5,3,3,1,1,2,5,53,manufacturer_sponsored_or_led
+IR-049,individually_recognized,,,Cognitive function,2025,0,1,1,2026-09-12,5,5,5,4,3,5,1,81,independent_documented
+IR-050,individually_recognized,,,Cognitive function,2025,0,1,1,2026-09-12,4,3,4,1,3,2,4,58,manufacturer_sponsored_or_led
+IR-051,individually_recognized,,,Skin,2024,0,1,5,2026-09-12,5,4,4,5,5,2,4,84,manufacturer_sponsored_or_led
+IR-052,individually_recognized,,,Body fat,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-053,individually_recognized,,,Skin,2025,0,0,0,2026-09-13,,,,,,,,,
+IR-054,individually_recognized,,,Eye health,2025,0,1,3,2026-09-12,5,5,5,5,5,2,4,89,manufacturer_sponsored_or_led
+IR-055,individually_recognized,,,Eye health,2025,0,1,4,2026-09-12,5,5,5,5,4,3,4,88,not_reported
+IR-056,individually_recognized,,,Body fat,2026,0,1,1,2026-09-12,4,3,4,1,3,5,4,67,independent_documented
+IR-057,individually_recognized,,,Sleep,2026,0,1,2,2026-09-12,4,3,4,3,4,2,2,64,manufacturer_sponsored_or_led
+IR-058,individually_recognized,,,Sleep,2025,0,1,1,2026-09-12,4,1,4,1,3,2,2,48,manufacturer_sponsored_or_led
+IR-059,individually_recognized,,,Immune function,2025,0,1,1,2026-09-12,4,3,4,1,4,3,2,61,not_reported
+IR-060,individually_recognized,,,Liver health,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-061,individually_recognized,,,Prostate,2025,0,1,2,2026-09-12,4,5,4,3,4,3,4,77,not_reported
+IR-062,individually_recognized,,,Bronchial health,2025,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-063,individually_recognized,,,Eye health,2025,0,1,2,2026-09-12,5,5,5,5,4,4,1,85,independent_documented
+IR-064,individually_recognized,,,Body fat,2025,0,1,1,2026-09-12,4,4,4,1,4,2,2,61,manufacturer_sponsored_or_led
+IR-065,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-066,individually_recognized,,,Stress,2025,0,1,3,2026-09-13,5,5,4,3,2,2,4,69,manufacturer_sponsored_or_led
+IR-067,individually_recognized,,,Joint,2025,0,1,1,2026-09-11,4,5,4,4,3,3,4,76,not_reported
+IR-068,individually_recognized,,,Bronchial health,2026,0,0,0,2026-09-11,,,,,,,,,
+IR-069,individually_recognized,,,Body fat,2025,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-070,individually_recognized,,,Bowel movement,2026,0,1,1,2026-09-12,4,4,4,1,4,2,2,61,manufacturer_sponsored_or_led
+IR-071,individually_recognized,,,Joint,2025,0,1,7,2026-09-12,5,5,5,5,3,3,5,86,not_reported
+IR-072,individually_recognized,,,Immune function,2025,0,1,1,2026-09-12,4,3,4,1,4,3,2,61,not_reported
+IR-073,individually_recognized,,,Body fat,2025,0,1,2,2026-09-12,5,4,4,4,3,3,4,76,not_reported
+IR-074,individually_recognized,,,Eye health,2025,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-075,individually_recognized,,,Gum health,2026,0,1,2,2026-09-12,5,4,4,3,4,3,2,73,not_reported
+IR-076,individually_recognized,,,Joint,2026,0,1,7,2026-09-12,5,5,5,5,3,3,5,86,not_reported
+IR-077,individually_recognized,,,Skin,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-078,individually_recognized,,,Cognitive function,2026,0,1,1,2026-09-12,4,4,4,1,4,2,5,67,manufacturer_sponsored_or_led
+IR-079,individually_recognized,,,Cognitive function,2026,0,1,1,2026-09-12,4,4,4,1,4,2,5,67,manufacturer_sponsored_or_led
+IR-080,individually_recognized,,,Immune function,2026,0,0,0,2026-09-11,,,,,,,,,
+IR-081,individually_recognized,,,Body fat,2026,0,1,1,2026-09-12,4,5,4,1,3,2,4,64,manufacturer_sponsored_or_led
+IR-082,individually_recognized,,,Immune function,2025,0,1,1,2026-09-12,4,3,4,1,4,3,2,61,not_reported
+IR-083,individually_recognized,,,Body fat,2025,0,0,0,2026-09-11,,,,,,,,,
+IR-084,individually_recognized,,,Body fat,2025,0,0,0,2026-09-13,,,,,,,,,
+IR-085,individually_recognized,,,Joint,2025,0,1,1,2026-09-12,4,4,4,1,4,5,5,76,independent_documented
+IR-086,individually_recognized,,,Stress,2025,0,1,3,2026-09-12,5,5,4,5,5,3,4,90,not_reported
+IR-087,individually_recognized,,,Body fat,2025,0,1,2,2026-09-12,4,4,4,3,4,2,4,71,manufacturer_sponsored_or_led
+IR-088,individually_recognized,,,Blood glucose,2026,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-089,individually_recognized,,,Body fat,2026,0,0,0,2026-09-11,,,,,,,,,
+IR-090,individually_recognized,,,Muscle strength,2025,0,1,1,2026-09-12,4,4,4,1,3,2,4,61,manufacturer_sponsored_or_led
+IR-091,individually_recognized,,,Muscle strength,2025,0,1,1,2026-09-12,4,4,4,1,3,2,4,61,manufacturer_sponsored_or_led
+IR-092,individually_recognized,,,Sleep,2025,0,1,1,2026-09-12,4,2,3,1,4,2,3,55,manufacturer_sponsored_or_led
+IR-093,individually_recognized,,,Body fat,2026,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-094,individually_recognized,,,Eye health,2026,0,1,3,2026-09-12,5,5,5,5,5,2,4,89,manufacturer_sponsored_or_led
+IR-095,individually_recognized,,,Body fat,2026,0,1,2,2026-09-12,5,4,4,4,3,3,4,76,not_reported
+IR-096,individually_recognized,,,Prostate,2026,0,1,1,2026-09-12,4,3,3,1,3,4,4,62,independent_documented
+IR-097,individually_recognized,,,Immune function,2024,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-098,individually_recognized,,,Cognitive function,2022,0,1,1,2026-09-11,4,4,3,1,3,3,1,56,not_reported
+IR-099,individually_recognized,,,Prostate,2022,0,1,1,2026-09-12,4,4,3,1,4,4,3,67,independent_documented
+IR-100,individually_recognized,,,Skin,2023,0,1,3,2026-09-12,4,4,4,5,5,2,4,81,manufacturer_sponsored_or_led
+IR-101,individually_recognized,,,Exercise performance,2022,0,1,2,2026-09-12,5,2,4,3,4,2,2,64,manufacturer_sponsored_or_led
+IR-102,individually_recognized,,,Blood circulation,2022,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-103,individually_recognized,,,Body fat,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-104,individually_recognized,,,Cognitive function,2022,0,1,1,2026-09-11,4,3,4,1,3,3,4,61,not_reported
+IR-105,individually_recognized,,,Antioxidant,2022,0,1,1,2026-09-11,2,1,3,1,2,3,1,37,not_reported
+IR-106,individually_recognized,,,Joint,2024,0,1,2,2026-09-12,5,3,5,4,3,2,2,68,manufacturer_sponsored_or_led
+IR-107,individually_recognized,,,Body fat,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-108,individually_recognized,,,Muscle strength,2023,0,1,1,2026-09-11,5,2,4,1,3,3,2,57,not_reported
+IR-109,individually_recognized,,,Body fat,2023,0,1,2,2026-09-12,4,2,4,4,3,2,4,64,manufacturer_sponsored_or_led
+IR-110,individually_recognized,,,Body fat,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-111,individually_recognized,,,Sleep,2022,0,1,2,2026-09-11,5,5,5,5,4,3,3,86,not_reported
+IR-112,individually_recognized,,,Skin,2024,0,1,2,2026-09-12,4,4,4,3,3,2,4,67,manufacturer_sponsored_or_led
+IR-113,individually_recognized,,,Digestion/gastric,2024,0,1,1,2026-09-12,4,2,4,1,4,3,4,62,not_reported
+IR-114,individually_recognized,,,Skin,2024,0,1,1,2026-09-11,4,4,4,1,2,3,1,54,not_reported
+IR-115,individually_recognized,,,Body fat,2022,0,1,1,2026-09-12,4,3,4,1,3,2,4,58,manufacturer_sponsored_or_led
+IR-116,individually_recognized,,,Digestion/gastric,2022,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-117,individually_recognized,,,Skin,2024,0,1,1,2026-09-11,4,2,4,1,4,3,1,56,not_reported
+IR-118,individually_recognized,,,Menopause,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-119,individually_recognized,,,Menopause,2024,0,1,4,2026-09-13,5,5,4,5,5,3,4,90,not_reported
+IR-120,individually_recognized,,,Immune function,2023,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-121,individually_recognized,,,Joint,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-122,individually_recognized,,,Eye health,2024,0,1,3,2026-09-12,5,5,5,5,5,2,4,89,manufacturer_sponsored_or_led
+IR-123,individually_recognized,,,Menopause,2022,0,1,1,2026-09-12,4,2,3,1,3,2,4,53,manufacturer_sponsored_or_led
+IR-124,individually_recognized,,,Hair,2024,0,0,0,2026-09-13,,,,,,,,,
+IR-125,individually_recognized,,,Skin,2022,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-126,individually_recognized,,,Cognitive function,2022,0,1,1,2026-09-12,4,4,4,1,3,4,5,69,independent_documented
+IR-127,individually_recognized,,,Bowel movement,2022,0,1,4,2026-09-12,5,5,5,3,5,2,5,85,manufacturer_sponsored_or_led
+IR-128,individually_recognized,,,Joint,2022,0,1,5,2026-09-12,5,5,5,4,3,3,4,81,not_reported
+IR-129,individually_recognized,,,Joint,2022,0,1,1,2026-09-11,4,3,4,1,3,3,4,61,not_reported
+IR-130,individually_recognized,,,Skin,2023,0,1,5,2026-09-12,4,4,4,5,4,2,4,77,manufacturer_sponsored_or_led
+IR-131,individually_recognized,,,Joint,2023,0,1,3,2026-09-12,5,3,5,4,3,2,5,74,manufacturer_sponsored_or_led
+IR-132,individually_recognized,,,Digestion/gastric,2024,0,1,1,2026-09-12,4,5,3,1,4,2,4,66,manufacturer_sponsored_or_led
+IR-133,individually_recognized,,,Body fat,2024,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-134,individually_recognized,,,Height growth,2024,0,1,3,2026-09-12,5,5,4,3,5,2,5,83,manufacturer_sponsored_or_led
+IR-135,individually_recognized,,,Immune function,2023,0,1,1,2026-09-12,4,5,4,1,3,3,4,67,not_reported
+IR-136,individually_recognized,,,Liver health,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-137,individually_recognized,,,Prostate,2024,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-138,individually_recognized,,,Joint,2022,0,1,1,2026-09-13,5,4,4,1,4,2,5,70,manufacturer_sponsored_or_led
+IR-139,individually_recognized,,,Joint,2024,0,1,7,2026-09-12,5,5,4,5,5,3,4,90,not_reported
+IR-140,individually_recognized,,,Height growth,2024,0,1,3,2026-09-12,5,5,4,3,5,2,5,83,manufacturer_sponsored_or_led
+IR-141,individually_recognized,,,Joint,2023,0,1,5,2026-09-12,4,5,4,4,4,2,4,77,manufacturer_sponsored_or_led
+IR-142,individually_recognized,,,Skin,2023,0,1,1,2026-09-11,4,4,4,1,2,3,2,56,not_reported
+IR-143,individually_recognized,,,Cognitive function,2023,0,1,1,2026-09-12,4,4,4,1,4,5,4,74,independent_documented
+IR-144,individually_recognized,,,Cognitive function,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-145,individually_recognized,,,Muscle strength,2023,0,1,2,2026-09-12,5,3,4,5,2,2,5,71,manufacturer_sponsored_or_led
+IR-146,individually_recognized,,,Skin,2023,0,1,7,2026-09-13,5,5,5,5,3,2,4,81,manufacturer_sponsored_or_led
+IR-147,individually_recognized,,,Immune function,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-148,individually_recognized,,,Body fat,2024,0,1,1,2026-09-12,4,2,4,1,2,4,2,53,independent_documented
+IR-149,individually_recognized,,,Body fat,2022,0,1,3,2026-09-12,5,2,4,1,5,3,4,69,not_reported
+IR-150,individually_recognized,,,Skin,2024,0,1,5,2026-09-12,5,4,4,5,5,2,4,84,manufacturer_sponsored_or_led
+IR-151,individually_recognized,,,Body fat,2023,0,1,2,2026-09-12,5,5,4,3,3,2,4,73,manufacturer_sponsored_or_led
+IR-152,individually_recognized,,,Women's health,2023,0,0,0,2026-09-13,,,,,,,,,
+IR-153,individually_recognized,,,Immune function,2024,0,1,1,2026-09-12,4,5,3,1,4,3,4,69,not_reported
+IR-154,individually_recognized,,,Immune function,2023,0,1,1,2026-09-11,4,3,4,1,4,3,4,65,not_reported
+IR-155,individually_recognized,,,Blood pressure,2024,0,1,2,2026-09-12,4,1,4,2,3,4,2,57,independent_documented
+IR-156,individually_recognized,,,Bowel movement,2023,0,1,1,2026-09-11,3,4,4,1,3,3,2,57,not_reported
+IR-157,individually_recognized,,,Muscle strength,2023,0,1,2,2026-09-12,5,3,4,5,2,2,5,71,manufacturer_sponsored_or_led
+IR-158,individually_recognized,,,Skin,2023,0,1,1,2026-09-12,4,4,4,1,2,3,2,56,not_reported
+IR-159,individually_recognized,,,Fatigue,2023,0,1,1,2026-09-11,5,4,3,1,4,2,3,64,manufacturer_sponsored_or_led
+IR-160,individually_recognized,,,Skin,2023,0,0,0,2026-09-13,,,,,,,,,
+IR-161,individually_recognized,,,Immune function,2024,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-162,individually_recognized,,,Body fat,2023,0,1,2,2026-09-12,4,4,4,2,4,2,4,68,manufacturer_sponsored_or_led
+IR-163,individually_recognized,,,Skin,2023,0,0,0,2026-09-13,,,,,,,,,
+IR-164,individually_recognized,,,Body fat,2023,0,1,2,2026-09-12,5,5,4,3,3,2,4,73,manufacturer_sponsored_or_led
+IR-165,individually_recognized,,,Skin,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-166,individually_recognized,,,Skin,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-167,individually_recognized,,,Skin,2024,0,1,1,2026-09-12,4,4,4,1,2,3,1,54,not_reported
+IR-168,individually_recognized,,,Cognitive function,2023,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-169,individually_recognized,,,Bone health,2024,0,0,0,2026-09-13,,,,,,,,,
+IR-170,individually_recognized,,,Exercise performance,2023,0,1,1,2026-09-12,5,3,5,4,2,3,1,65,not_reported
+IR-171,individually_recognized,,,Blood glucose,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-172,individually_recognized,,,Skin,2023,0,0,0,2026-09-13,,,,,,,,,
+IR-173,individually_recognized,,,Muscle strength,2023,0,1,1,2026-09-12,4,2,4,1,2,4,1,51,independent_documented
+IR-174,individually_recognized,,,Muscle strength,2023,0,1,1,2026-09-12,4,2,4,1,2,4,1,51,independent_documented
+IR-175,individually_recognized,,,Joint,2024,0,1,2,2026-09-12,4,4,3,3,4,2,4,69,manufacturer_sponsored_or_led
+IR-176,individually_recognized,,,Joint,2024,0,1,7,2026-09-12,5,5,4,5,5,3,4,90,not_reported
+IR-177,individually_recognized,,,Joint,2023,0,1,1,2026-09-12,4,2,3,1,3,2,2,49,manufacturer_sponsored_or_led
+IR-178,individually_recognized,,,Joint,2024,0,0,0,2026-09-13,,,,,,,,,
+IR-179,individually_recognized,,,Liver health,2023,0,1,1,2026-09-12,3,3,4,1,4,4,1,59,independent_documented
+IR-180,individually_recognized,,,Skin,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-181,individually_recognized,,,Menopause,2023,0,1,1,2026-09-12,4,4,3,1,4,1,4,60,manufacturer_sponsored_or_led
+IR-182,individually_recognized,,,Skin,2023,0,0,0,2026-09-11,,,,,,,,,
+IR-183,individually_recognized,,,Stress,2024,0,1,2,2026-09-11,5,5,5,5,4,3,3,86,not_reported
+IR-184,individually_recognized,,,Digestion/gastric,2024,0,1,1,2026-09-11,4,2,4,1,4,3,4,62,not_reported
+IR-185,individually_recognized,,,Eye health,2023,0,1,4,2026-09-12,5,5,5,5,4,3,4,88,not_reported
+IR-186,individually_recognized,,,Body fat,2023,0,0,0,2026-09-12,,,,,,,,,
+IR-187,individually_recognized,,,Prostate,2023,0,1,1,2026-09-12,4,4,4,1,4,3,4,68,not_reported
+IR-188,individually_recognized,,,Body fat,,1,1,2,2026-09-12,4,3,4,3,3,3,4,67,not_reported
+IR-189,individually_recognized,,,Body fat,2023,0,0,0,2026-09-12,,,,,,,,,
+IR-190,individually_recognized,,,Women's health,2023,0,0,0,2026-09-13,,,,,,,,,
+IR-191,individually_recognized,,,Body fat,2023,0,1,2,2026-09-11,5,5,5,4,4,3,4,85,not_reported
+IR-192,individually_recognized,,,Blood circulation,2021,0,1,1,2026-09-13,5,3,4,1,4,2,1,59,manufacturer_sponsored_or_led
+IR-193,individually_recognized,,,Prostate,2021,0,1,1,2026-09-12,4,4,3,1,3,5,5,70,independent_documented
+IR-194,individually_recognized,,,Body fat,2020,0,1,3,2026-09-12,5,2,4,1,5,3,4,69,not_reported
+IR-195,individually_recognized,,,Immune function,2021,0,1,1,2026-09-12,4,5,4,1,4,3,2,67,not_reported
+IR-196,individually_recognized,,,Digestion/gastric,2020,0,0,0,2026-09-11,,,,,,,,,
+IR-197,individually_recognized,,,Digestion/gastric,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-198,individually_recognized,,,Immune function,2019,0,1,2,2026-09-12,5,3,4,4,4,3,4,77,not_reported
+IR-199,individually_recognized,,,Skin,2020,0,1,1,2026-09-11,4,2,3,1,3,3,3,54,not_reported
+IR-200,individually_recognized,,,Menopause,2020,0,1,3,2026-09-11,4,5,3,2,4,2,3,67,manufacturer_sponsored_or_led
+IR-201,individually_recognized,,,Body fat,2019,0,1,2,2026-09-11,4,4,4,3,4,3,4,74,not_reported
+IR-202,individually_recognized,,,Women's health,2019,0,1,2,2026-09-11,3,2,4,3,4,3,2,61,not_reported
+IR-203,individually_recognized,,,Eye health,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-204,individually_recognized,,,Fatigue,2019,0,1,1,2026-09-12,4,4,4,1,3,2,4,61,manufacturer_sponsored_or_led
+IR-205,individually_recognized,,,Skin,2019,0,1,1,2026-09-12,3,1,4,1,3,2,2,45,manufacturer_sponsored_or_led
+IR-206,individually_recognized,,,Immune function,2020,0,1,1,2026-09-12,2,1,4,1,2,1,3,37,manufacturer_sponsored_or_led
+IR-207,individually_recognized,,,Menopause,2019,0,1,1,2026-09-11,5,4,5,4,3,3,3,76,not_reported
+IR-208,individually_recognized,,,Joint,2020,0,0,0,2026-09-11,,,,,,,,,
+IR-209,individually_recognized,,,Blood circulation,2021,0,0,0,2026-09-11,,,,,,,,,
+IR-210,individually_recognized,,,Body fat,2021,0,0,0,2026-09-11,,,,,,,,,
+IR-211,individually_recognized,,,Bowel movement,2019,0,1,1,2026-09-12,4,3,3,1,4,4,4,66,independent_documented
+IR-212,individually_recognized,,,Skin,2019,0,1,1,2026-09-11,4,3,4,1,3,2,4,58,manufacturer_sponsored_or_led
+IR-213,individually_recognized,,,Joint,2018,0,0,0,2026-09-11,,,,,,,,,
+IR-214,individually_recognized,,,Eye health,2019,0,1,2,2026-09-12,5,5,5,4,4,3,4,85,not_reported
+IR-215,individually_recognized,,,Eye health,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-216,individually_recognized,,,Body fat,2020,0,0,0,2026-09-12,,,,,,,,,
+IR-217,individually_recognized,,,Menopause,2019,0,1,1,2026-09-12,4,3,4,1,4,3,4,65,not_reported
+IR-218,individually_recognized,,,Menopause,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-219,individually_recognized,,,Liver health,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-220,individually_recognized,,,Skin,2018,0,1,1,2026-09-11,4,3,4,1,3,3,4,61,not_reported
+IR-221,individually_recognized,,,Immune function,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-222,individually_recognized,,,Digestion/gastric,2019,0,1,1,2026-09-12,5,4,4,1,3,2,4,64,manufacturer_sponsored_or_led
+IR-223,individually_recognized,,,Joint,2020,0,1,7,2026-09-13,5,5,5,5,3,3,5,86,not_reported
+IR-224,individually_recognized,,,Eye health,2018,0,1,2,2026-09-12,5,5,5,5,4,3,3,86,not_reported
+IR-225,individually_recognized,,,Body fat,2018,0,1,1,2026-09-11,5,4,5,4,3,3,1,72,not_reported
+IR-226,individually_recognized,,,Skin,2019,0,1,5,2026-09-11,5,4,4,5,5,3,5,89,not_reported
+IR-227,individually_recognized,,,Skin,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-228,individually_recognized,,,Joint,2018,0,0,0,2026-09-11,,,,,,,,,
+IR-229,individually_recognized,,,Eye health,2018,0,1,2,2026-09-12,5,5,5,4,4,3,4,85,not_reported
+IR-230,individually_recognized,,,Blood pressure,2019,0,1,1,2026-09-11,5,3,4,1,3,4,4,67,independent_documented
+IR-231,individually_recognized,,,Cognitive function,2019,0,1,1,2026-09-12,4,5,3,1,2,1,4,55,manufacturer_sponsored_or_led
+IR-232,individually_recognized,,,Sleep,2018,0,1,1,2026-09-11,5,3,4,1,3,3,4,64,not_reported
+IR-233,individually_recognized,,,Blood circulation,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-234,individually_recognized,,,Skin,2018,0,0,0,2026-09-11,,,,,,,,,
+IR-235,individually_recognized,,,Skin,2018,0,0,0,2026-09-11,,,,,,,,,
+IR-236,individually_recognized,,,Liver health,2018,0,0,0,2026-09-11,,,,,,,,,
+IR-237,individually_recognized,,,Joint,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-238,individually_recognized,,,Body fat,2019,0,0,0,2026-09-13,,,,,,,,,
+IR-239,individually_recognized,,,Body fat,2019,0,1,1,2026-09-12,4,3,4,1,4,3,3,63,not_reported
+IR-240,individually_recognized,,,Menopause,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-241,individually_recognized,,,Menopause,2019,0,1,4,2026-09-11,5,5,4,5,5,3,4,90,not_reported
+IR-242,individually_recognized,,,Body fat,2018,0,1,6,2026-09-12,5,5,5,5,4,3,4,88,not_reported
+IR-243,individually_recognized,,,Menopause,,1,0,0,2026-09-11,,,,,,,,,
+IR-244,individually_recognized,,,Immune function,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-245,individually_recognized,,,Joint,2022,0,1,1,2026-09-12,5,5,5,4,4,5,4,91,independent_documented
+IR-246,individually_recognized,,,Bowel movement,2022,0,1,4,2026-09-12,5,5,5,3,5,2,5,85,manufacturer_sponsored_or_led
+IR-247,individually_recognized,,,Blood circulation,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-248,individually_recognized,,,Blood circulation,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-249,individually_recognized,,,Eye health,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-250,individually_recognized,,,Skin,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-251,individually_recognized,,,Eye health,2021,0,1,4,2026-09-12,5,5,5,5,4,3,4,88,not_reported
+IR-252,individually_recognized,,,Body fat,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-253,individually_recognized,,,Skin,2022,0,1,7,2026-09-13,5,5,5,5,3,2,4,81,manufacturer_sponsored_or_led
+IR-254,individually_recognized,,,Blood pressure,2022,0,1,1,2026-09-13,5,2,4,1,3,4,5,66,independent_documented
+IR-255,individually_recognized,,,Joint,2022,0,0,0,2026-09-13,,,,,,,,,
+IR-256,individually_recognized,,,Skin,2022,0,1,7,2026-09-13,5,5,5,5,3,2,4,81,manufacturer_sponsored_or_led
+IR-257,individually_recognized,,,Skin,2021,0,0,0,2026-09-11,,,,,,,,,
+IR-258,individually_recognized,,,Blood circulation,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-259,individually_recognized,,,Skin,2021,0,1,1,2026-09-11,4,2,3,1,2,3,4,52,not_reported
+IR-260,individually_recognized,,,Liver health,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-261,individually_recognized,,,Blood glucose,2022,0,1,1,2026-09-12,4,2,4,1,4,5,4,68,independent_documented
+IR-262,individually_recognized,,,Liver health,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-263,individually_recognized,,,Body fat,2021,0,1,1,2026-09-12,4,5,4,1,4,3,4,71,not_reported
+IR-264,individually_recognized,,,Joint,2022,0,1,1,2026-09-12,5,4,3,1,4,2,4,66,manufacturer_sponsored_or_led
+IR-265,individually_recognized,,,Body fat,2022,0,1,1,2026-09-13,5,2,4,1,4,2,4,62,manufacturer_sponsored_or_led
+IR-266,individually_recognized,,,Liver health,2021,0,1,2,2026-09-12,4,2,3,3,5,3,4,70,not_reported
+IR-267,individually_recognized,,,Blood pressure,2022,0,1,1,2026-09-13,5,2,4,1,3,4,5,66,independent_documented
+IR-268,individually_recognized,,,Menopause,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-269,individually_recognized,,,Digestion/gastric,2021,0,1,1,2026-09-12,4,4,4,1,5,1,4,66,manufacturer_sponsored_or_led
+IR-270,individually_recognized,,,Joint,2022,0,1,1,2026-09-13,5,4,4,1,4,2,5,70,manufacturer_sponsored_or_led
+IR-271,individually_recognized,,,Sleep,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-272,individually_recognized,,,Joint,2021,0,1,1,2026-09-11,4,4,4,1,4,3,4,68,not_reported
+IR-273,individually_recognized,,,Eye health,2021,0,1,1,2026-09-12,4,4,4,1,4,2,4,65,manufacturer_sponsored_or_led
+IR-274,individually_recognized,,,Immune function,2021,0,1,1,2026-09-13,5,2,4,1,3,2,5,60,manufacturer_sponsored_or_led
+IR-275,individually_recognized,,,Skin,2021,0,1,1,2026-09-13,5,3,4,1,4,3,4,68,not_reported
+IR-276,individually_recognized,,,Joint,2021,0,1,1,2026-09-12,5,4,4,1,4,3,2,67,not_reported
+IR-277,individually_recognized,,,Blood circulation,2021,0,1,1,2026-09-12,4,3,4,1,4,4,2,64,independent_documented
+IR-278,individually_recognized,,,Blood glucose,2021,0,1,1,2026-09-12,4,2,3,1,3,4,4,59,independent_documented
+IR-279,individually_recognized,,,Liver health,2021,0,1,2,2026-09-12,4,2,3,3,5,3,4,70,not_reported
+IR-280,individually_recognized,,,Skin,2017,0,1,2,2026-09-11,4,4,3,3,4,3,4,72,not_reported
+IR-281,individually_recognized,,,Body fat,2017,0,1,2,2026-09-12,4,4,3,3,2,2,3,59,manufacturer_sponsored_or_led
+IR-282,individually_recognized,,,Menopause,2017,0,0,0,2026-09-11,,,,,,,,,
+N-2-30,notified,2-30,Glucosamine,Joint,,0,1,12,2026-09-11,5,5,4,5,3,4,4,85,independent_documented
+N-2-13,notified,2-13,Ginkgo Biloba Leaf Extract,Cognitive function,,0,1,4,2026-09-12,5,5,5,5,2,3,4,80,not_reported
+N-2-25,notified,2-25,Garcinia cambogia Extract,Body fat,,0,1,4,2026-09-12,5,5,5,4,2,3,4,77,not_reported
+N-2-28,notified,2-28,Saw Palmetto Extract,Prostate,,0,1,7,2026-09-11,5,5,5,4,2,3,4,77,not_reported
+N-2-14,notified,2-14,Milk Thistle,Liver health,,0,1,6,2026-09-11,5,5,5,5,3,3,4,84,not_reported
+N-2-9,notified,2-9,Coenzyme Q10,Antioxidant,,0,1,2,2026-09-11,5,5,5,4,3,3,2,77,not_reported
+N-2-24,notified,2-24,Conjugated Linoleic Acid(CLA),Body fat,,0,1,6,2026-09-11,5,5,5,5,3,3,4,84,not_reported
+N-2-10,notified,2-10,Soy Isoflavone,Menopause,,0,1,2,2026-09-15,5,5,5,4,4,3,2,81,not_reported
+N-2-8,notified,2-8,Propolis Extract,Antioxidant,,0,1,2,2026-09-15,5,5,5,4,3,3,2,77,not_reported
+N-2-57,notified,2-57,Hyaluronic Acid,Skin,,0,1,1,2026-09-11,5,4,5,4,4,3,2,78,not_reported
+N-2-60,notified,2-60,Garlic,Blood circulation,,0,1,4,2026-09-11,5,5,5,5,3,3,2,80,not_reported
+N-2-55,notified,2-55,MSM(Methylsulfonylmethane),Joint,,0,1,4,2026-09-11,5,5,5,5,2,3,4,80,not_reported
+N-2-27,notified,2-27,Haematococcus pluvialis(Astaxanthin) Extract,Skin,,0,1,3,2026-09-15,5,4,4,4,4,2,4,77,manufacturer_sponsored_or_led
+N-2-6,notified,2-6,Green Tea Extract,Body fat,,0,1,3,2026-09-11,5,5,4,5,4,3,4,86,not_reported
+N-2-5,notified,2-5,Spirulina,Antioxidant,,0,1,1,2026-09-11,5,5,4,4,2,3,1,69,not_reported
+N-2-47,notified,2-47,Aloe Vera Gel,Digestion/gastric,,0,1,1,2026-09-11,5,5,4,4,3,3,4,79,not_reported
+N-2-2,notified,2-2,Red Ginseng,Immune function,,0,1,4,2026-09-12,5,5,4,5,4,4,5,91,independent_documented
+N-1-14,notified,1-14,Vitamin C,Antioxidant,,0,1,2,2026-09-12,5,5,4,4,2,3,4,75,not_reported
+N-1-4,notified,1-4,Vitamin E,Antioxidant,,0,1,1,2026-09-11,4,5,4,1,1,3,1,53,not_reported
+N-1-3,notified,1-3,Vitamin D,Bone health,,0,1,2,2026-09-11,5,5,5,4,2,3,2,73,not_reported
+N-1-15,notified,1-15,Calcium,Bone health,,0,1,2,2026-09-13,5,5,5,4,1,4,2,72,independent_documented
+N-1-20,notified,1-20,Selenium,Antioxidant,,0,1,3,2026-09-12,3,4,4,3,3,4,5,72,independent_documented
+N-1-25,notified,1-25,Chromium,Blood glucose,,0,1,4,2026-09-12,5,5,4,4,3,3,2,75,not_reported
+N-1-18,notified,1-18,Zinc,Immune function,,0,1,3,2026-09-12,5,4,5,4,4,3,4,82,not_reported
+N-1-16,notified,1-16,Magnesium,Energy metabolism,,0,1,4,2026-09-11,5,5,4,4,2,3,4,75,not_reported
+N-X310,notified,,Vitamin A,Antioxidant,,0,1,4,2026-09-11,3,5,4,3,2,3,4,66,not_reported
+N-1-5,notified,1-5,Vitamin K,Bone health,,0,1,3,2026-09-11,5,5,4,4,3,3,4,79,not_reported
+N-1-8,notified,1-8,Niacin,Blood circulation,,0,1,5,2026-09-11,5,5,4,4,4,2,4,80,manufacturer_sponsored_or_led
+N-1-11,notified,1-11,Folic Acid,Women's health,,0,1,5,2026-09-11,5,5,5,5,5,4,4,95,independent_documented
+N-1-12,notified,1-12,Vitamin B12,Fatigue,,0,1,3,2026-09-11,5,5,5,5,1,3,2,72,not_reported
+N-X315,notified,,Biotin,Skin,,0,1,4,2026-09-11,4,1,4,3,1,3,4,53,not_reported
+N-2-16,notified,2-16,,Blood circulation,,0,1,5,2026-09-11,5,5,5,4,2,4,4,80,independent_documented
+N-1-17,notified,1-17,Iron,Fatigue,,0,1,2,2026-09-12,5,5,5,5,3,4,3,85,independent_documented
+N-1-10,notified,1-10,Vitamin B6,Fatigue,,0,1,2,2026-09-15,4,1,3,3,1,3,3,49,not_reported
+N-2-63,notified,2-63,Creatine,Exercise performance,,0,1,2,2026-09-12,5,5,5,5,4,2,2,81,manufacturer_sponsored_or_led
+N-2-34,notified,2-34,Glucomannan,Body fat,,0,1,2,2026-09-11,5,5,5,4,2,3,2,73,not_reported
+N-2-49,notified,2-49,Chito-oligosaccharide,Body fat,,0,1,3,2026-09-15,5,5,5,5,4,3,2,84,not_reported
+N-2-54,notified,2-54,L-Theanine,Stress,,0,1,5,2026-09-11,5,5,5,5,3,3,4,84,not_reported
+N-2-58,notified,2-58,Rhodiola rosea Extract,Stress,,0,1,6,2026-09-12,4,3,4,4,3,4,4,73,independent_documented
+N-2-20,notified,2-20,Phytosterol,Blood circulation,,0,1,2,2026-09-11,5,5,4,4,5,3,3,85,not_reported
+N-2-29,notified,2-29,Phosphatidylserine,Cognitive function,,0,1,1,2026-09-12,4,2,4,1,3,3,4,58,not_reported
+N-2-15,notified,2-15,Evening Primrose Seed Extract,Menopause,,0,1,1,2026-09-13,4,2,2,2,1,3,2,45,not_reported
+N-2-44,notified,2-44,Psyllium Husk,Blood circulation,,0,1,4,2026-09-15,5,5,5,5,5,3,2,88,not_reported
+N-2-1,notified,2-1,Ginseng,Immune function,,0,1,3,2026-09-15,5,5,4,4,4,3,2,79,not_reported
+N-2-18,notified,2-18,Lecithin,Blood circulation,,0,1,1,2026-09-11,4,1,4,1,2,3,3,49,not_reported
+N-2-21,notified,2-21,Alkylglycerol,Blood circulation,,0,1,1,2026-09-11,4,2,3,1,2,3,4,52,not_reported
+N-2-4,notified,2-4,Chlorella,Blood circulation,,0,1,3,2026-09-15,5,5,4,4,4,3,2,79,not_reported
+N-1-6,notified,1-6,Vitamin B1(Thiamine),Fatigue,,0,1,3,2026-09-11,2,1,4,2,3,3,3,50,not_reported
+N-1-7,notified,1-7,Vitamin B2(Riboflavin),Fatigue,,0,1,3,2026-09-15,2,1,3,2,3,3,3,48,not_reported
+N-2-11,notified,2-11,Guava Leaf Extract,Blood glucose,,0,0,0,2026-09-13,,,,,,,,,
+N-2-12,notified,2-12,Banaba Leaf Extract,Blood glucose,,0,1,3,2026-09-11,3,2,4,3,3,3,3,59,not_reported
+N-2-22,notified,2-22,Octacosanol,Exercise performance,,0,0,0,2026-09-11,,,,,,,,,
+N-2-19,notified,2-19,Squalene,Skin,,0,1,1,2026-09-11,2,2,4,1,3,3,2,48,not_reported
+N-2-52,notified,2-52,Red Yeast Rice,Blood circulation,,0,1,5,2026-09-11,3,5,4,2,3,3,4,67,not_reported
+N-2-51,notified,2-51,Probiotics,Digestion/gastric,,0,1,5,2026-09-11,5,5,5,4,3,3,4,81,not_reported
+N-2-53,notified,2-53,Soy Protein,Blood circulation,,0,1,1,2026-09-11,5,5,5,4,3,3,3,79,not_reported
+N-1-19,notified,1-19,Copper,Antioxidant,,0,1,1,2026-09-11,1,1,3,1,2,3,1,34,not_reported
+N-1-21,notified,1-21,Iodine,Energy metabolism,,0,1,3,2026-09-11,1,1,4,2,4,3,3,51,not_reported
+N-1-22,notified,1-22,Manganese,Bone health,,0,1,3,2026-09-11,1,1,4,2,2,3,3,43,not_reported
+N-1-24,notified,1-24,Potassium,Blood circulation,,0,1,3,2026-09-11,1,1,3,2,3,3,3,45,not_reported
+N-2-59,notified,2-59,Bilberry Extract,Eye health,,0,1,2,2026-09-12,4,4,4,3,4,1,4,68,manufacturer_sponsored_or_led
+N-2-48,notified,2-48,Ganoderma lucidum(Reishi) Extract,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+N-2-17,notified,2-17,Gamma-linolenic Acid(GLA),Blood circulation,,0,1,1,2026-09-11,2,1,3,1,2,3,3,41,not_reported
+N-2-43,notified,2-43,Inulin Extract,Bowel movement,,0,1,2,2026-09-15,5,5,4,4,4,3,1,77,not_reported
+N-2-31,notified,2-31,,Joint,,0,1,2,2026-09-11,3,3,3,2,3,3,1,53,not_reported
+N-2-66,notified,2-66,Tomato Extract,Prostate,,0,1,2,2026-09-11,5,3,5,4,1,3,2,63,not_reported
+N-2-35,notified,2-35,Oat,Blood circulation,,0,1,1,2026-09-12,5,5,5,4,4,5,2,87,independent_documented
+N-2-40,notified,2-40,Barley,Blood circulation,,0,1,1,2026-09-11,5,5,5,4,4,3,2,81,not_reported
+N-2-23,notified,2-23,Prunus mume(Green Plum) Extract,Fatigue,,0,1,1,2026-09-11,5,4,4,1,1,3,4,59,not_reported
+N-2-45,notified,2-45,Polydextrose,Bowel movement,,0,1,5,2026-09-12,4,5,4,5,3,3,4,79,not_reported
+N-2-36,notified,2-36,Resistant Maltodextrin,Bowel movement,,0,1,3,2026-09-15,5,5,5,4,5,2,3,84,manufacturer_sponsored_or_led
+N-2-50,notified,2-50,Fructooligosaccharide,Bowel movement,,0,1,2,2026-09-13,4,3,4,3,3,3,2,63,not_reported
+N-2-65,notified,2-65,Phellinus linteus Extract,Immune function,,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+N-2-64,notified,2-64,Milk Protein Hydrolysate,Blood circulation,,0,1,1,2026-09-11,5,2,5,4,4,3,2,72,not_reported
+N-2-26,notified,2-26,Marigold Flower Extract,Eye health,,0,1,2,2026-09-11,3,3,4,2,4,3,4,65,not_reported
+N-2-3,notified,2-3,Chlorophyll,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+N-2-33,notified,2-33,Guar Gum Hydrolysate,Bowel movement,,0,1,3,2026-09-15,4,2,4,3,4,1,3,60,manufacturer_sponsored_or_led
+N-2-41,notified,2-41,Gum Arabic(Acacia Gum),Bowel movement,,0,1,1,2026-09-11,3,3,4,1,2,3,3,52,not_reported
+N-2-39,notified,2-39,Wheat,Bowel movement,,0,1,3,2026-09-13,4,3,3,4,3,3,2,64,not_reported
+N-2-37,notified,2-37,Soybean,Bowel movement,,0,1,1,2026-09-11,2,1,4,1,2,3,2,41,not_reported
+N-2-42,notified,2-42,Corn Bran,Bowel movement,,0,1,1,2026-09-11,2,1,4,1,3,3,3,47,not_reported
+N-2-46,notified,2-46,Fenugreek Seed,Blood glucose,,0,1,6,2026-09-12,5,5,4,5,4,4,4,89,independent_documented
+N-2-56,notified,2-56,Poly-gamma-glutamic Acid,Bone health,,0,1,1,2026-09-11,3,1,4,1,3,3,2,48,not_reported
+N-2-61,notified,2-61,Raffinose,Bowel movement,,0,1,1,2026-09-11,2,1,3,1,2,3,2,39,not_reported
+N-2-62,notified,2-62,Agar,Body fat,,0,1,1,2026-09-11,3,3,4,1,3,3,2,54,not_reported
+IR-283,individually_recognized,,,Height growth,2014,0,1,1,2026-09-11,4,4,4,2,3,3,3,65,not_reported
+IR-284,individually_recognized,,,Blood glucose,2024,0,1,1,2026-09-12,3,2,4,1,4,3,4,59,not_reported
+IR-285,individually_recognized,,,Skin,2008,0,0,0,2026-09-11,,,,,,,,,
+IR-286,individually_recognized,,,Stress,2026,0,0,0,2026-09-11,,,,,,,,,
+IR-287,individually_recognized,,,Eye health,2026,0,0,0,2026-09-13,,,,,,,,,
+IR-288,individually_recognized,,,Cognitive function,2026,0,1,1,2026-09-12,4,5,3,1,2,1,4,55,manufacturer_sponsored_or_led
+IR-289,individually_recognized,,,Menopause,2022,0,1,4,2026-09-12,5,5,4,5,5,3,4,90,not_reported
+IR-290,individually_recognized,,,Immune function,2021,0,0,0,2026-09-11,,,,,,,,,
+IR-291,individually_recognized,,,Body fat,2021,0,1,2,2026-09-12,4,4,4,2,4,2,4,68,manufacturer_sponsored_or_led
+IR-292,individually_recognized,,,Blood circulation,2025,0,1,3,2026-09-11,5,5,5,4,2,3,4,77,not_reported
+IR-293,individually_recognized,,,Blood circulation,2024,0,0,0,2026-09-11,,,,,,,,,
+IR-294,individually_recognized,,,Cognitive function,2022,0,0,0,2026-09-13,,,,,,,,,
+IR-295,individually_recognized,,,Cognitive function,2021,0,1,1,2026-09-12,4,3,4,1,3,3,5,63,not_reported
+IR-296,individually_recognized,,,Immune function,2009,0,1,1,2026-09-11,4,4,4,1,3,3,3,62,not_reported
+IR-297,individually_recognized,,,Body fat,2019,0,0,0,2026-09-11,,,,,,,,,
+IR-298,individually_recognized,,,Blood glucose,2018,0,1,1,2026-09-11,4,3,4,1,5,3,4,69,not_reported
+IR-299,individually_recognized,,,Cognitive function,2022,0,0,0,2026-09-11,,,,,,,,,
+IR-300,individually_recognized,,,Eye health,,1,1,3,2026-09-11,5,5,5,4,4,3,4,85,not_reported
+IR-301,individually_recognized,,,Antioxidant,,1,0,0,2026-09-11,,,,,,,,,
+IR-302,individually_recognized,,,Energy metabolism,,1,1,2,2026-09-15,2,1,3,2,3,3,3,48,not_reported
+IR-303,individually_recognized,,,Muscle strength,,1,1,1,2026-09-12,5,5,5,4,3,3,2,77,not_reported
+IR-304,individually_recognized,,,Energy metabolism,,1,0,0,2026-09-11,,,,,,,,,
+IR-305,individually_recognized,,,Bowel movement,,1,1,5,2026-09-12,5,5,5,5,4,3,4,88,not_reported
+IR-306,individually_recognized,,,Energy metabolism,,1,1,4,2026-09-11,1,1,4,1,1,3,2,34,not_reported
+IR-307,individually_recognized,,,Bowel movement,,1,1,2,2026-09-11,4,1,4,3,3,3,2,57,not_reported
+IR-308,individually_recognized,,,Blood circulation,,1,1,1,2026-09-11,5,5,5,4,4,3,2,81,not_reported
+IR-309,individually_recognized,,,Blood glucose,,1,0,0,2026-09-11,,,,,,,,,
+IR-310,individually_recognized,,,Bowel movement,,1,1,1,2026-09-11,3,3,3,1,1,3,2,44,not_reported
+IR-311,individually_recognized,,,Joint,,1,1,2,2026-09-11,4,5,4,2,2,4,4,69,independent_documented
+IR-312,individually_recognized,,,Skin,,0,1,2,2026-09-12,3,2,4,3,3,4,2,60,independent_documented
+IR-313,individually_recognized,,,Menopause,,0,1,2,2026-09-12,5,5,4,4,3,4,3,80,independent_documented
+IR-314,individually_recognized,,,Bowel movement,,0,0,0,2026-09-11,,,,,,,,,
+IR-315,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-316,individually_recognized,,,Cognitive function,,0,0,0,2026-09-13,,,,,,,,,
+IR-317,individually_recognized,,,Joint,,0,1,2,2026-09-12,4,1,4,2,3,2,5,57,manufacturer_sponsored_or_led
+IR-318,individually_recognized,,,Skin,,0,1,1,2026-09-12,4,4,4,1,4,3,2,64,not_reported
+IR-319,individually_recognized,,,Immune function,,0,0,0,2026-09-13,,,,,,,,,
+IR-320,individually_recognized,,,Blood circulation,,0,1,1,2026-09-11,2,2,3,1,3,3,4,50,not_reported
+IR-321,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-322,individually_recognized,,,Cognitive function,,0,0,0,2026-09-13,,,,,,,,,
+IR-323,individually_recognized,,,Blood glucose,,0,1,7,2026-09-12,5,3,4,4,3,2,4,70,manufacturer_sponsored_or_led
+IR-324,individually_recognized,,,Blood pressure,,0,0,0,2026-09-11,,,,,,,,,
+IR-325,individually_recognized,,,Blood circulation,,0,1,1,2026-09-11,4,1,4,1,3,3,3,53,not_reported
+IR-326,individually_recognized,,,Energy metabolism,,0,0,0,2026-09-11,,,,,,,,,
+IR-327,individually_recognized,,,Body fat,,0,1,1,2026-09-12,4,3,4,1,4,3,3,63,not_reported
+IR-328,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-329,individually_recognized,,,Stress,,0,0,0,2026-09-11,,,,,,,,,
+IR-330,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-331,individually_recognized,,,Menopause,,0,1,1,2026-09-12,4,4,4,1,2,3,5,62,not_reported
+IR-332,individually_recognized,,,Body fat,,0,0,0,2026-09-11,,,,,,,,,
+IR-333,individually_recognized,,,Body fat,,0,0,0,2026-09-11,,,,,,,,,
+IR-334,individually_recognized,,,Exercise performance,,0,1,4,2026-09-12,4,2,3,4,4,2,3,64,manufacturer_sponsored_or_led
+IR-335,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-336,individually_recognized,,,Skin,,0,1,3,2026-09-11,4,4,3,2,4,3,3,67,not_reported
+IR-337,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-338,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-339,individually_recognized,,,Women's health,,0,1,2,2026-09-12,4,4,4,3,1,4,4,65,independent_documented
+IR-340,individually_recognized,,,Blood glucose,,0,1,1,2026-09-11,4,3,4,1,3,3,3,59,not_reported
+IR-341,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-342,individually_recognized,,,Fatigue,,0,0,0,2026-09-11,,,,,,,,,
+IR-343,individually_recognized,,,Blood pressure,,0,0,0,2026-09-11,,,,,,,,,
+IR-344,individually_recognized,,,Bowel movement,,0,1,2,2026-09-11,4,5,4,3,4,3,4,77,not_reported
+IR-345,individually_recognized,,,Joint,,0,1,1,2026-09-11,4,4,3,1,3,3,3,60,not_reported
+IR-346,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-347,individually_recognized,,,Eye health,,0,1,3,2026-09-11,4,5,4,3,4,3,4,77,not_reported
+IR-348,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-349,individually_recognized,,,Menopause,,0,0,0,2026-09-11,,,,,,,,,
+IR-350,individually_recognized,,,Body fat,,0,0,0,2026-09-11,,,,,,,,,
+IR-351,individually_recognized,,,Body fat,,0,1,3,2026-09-12,5,5,5,5,4,3,4,88,not_reported
+IR-352,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-353,individually_recognized,,,Sleep,,0,0,0,2026-09-11,,,,,,,,,
+IR-354,individually_recognized,,,Blood circulation,,0,1,1,2026-09-11,4,5,4,1,1,3,2,55,not_reported
+IR-355,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-356,individually_recognized,,,Joint,,0,1,1,2026-09-12,3,3,4,1,3,2,4,55,manufacturer_sponsored_or_led
+IR-357,individually_recognized,,,Immune function,,0,1,2,2026-09-11,4,4,4,2,3,3,3,65,not_reported
+IR-358,individually_recognized,,,Joint,,0,1,2,2026-09-11,4,5,3,2,4,3,4,72,not_reported
+IR-359,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-360,individually_recognized,,,Bowel movement,,0,0,0,2026-09-11,,,,,,,,,
+IR-361,individually_recognized,,,Eye health,,0,0,0,2026-09-11,,,,,,,,,
+IR-362,individually_recognized,,,Bronchial health,,0,0,0,2026-09-11,,,,,,,,,
+IR-363,individually_recognized,,,Blood glucose,,0,1,1,2026-09-11,5,5,5,4,4,3,3,83,not_reported
+IR-364,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-365,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-366,individually_recognized,,,Fatigue,,0,1,1,2026-09-11,3,1,4,1,1,3,2,40,not_reported
+IR-367,individually_recognized,,,Fatigue,,0,0,0,2026-09-11,,,,,,,,,
+IR-368,individually_recognized,,,Bowel movement,,0,1,3,2026-09-11,5,5,5,4,3,3,4,81,not_reported
+IR-369,individually_recognized,,,Antioxidant,,0,1,4,2026-09-11,5,5,4,4,3,3,3,77,not_reported
+IR-370,individually_recognized,,,Eye health,,0,1,2,2026-09-11,3,3,3,2,4,3,4,63,not_reported
+IR-371,individually_recognized,,,Antioxidant,,0,1,2,2026-09-11,4,4,3,3,3,3,2,64,not_reported
+IR-372,individually_recognized,,,Body fat,,0,0,0,2026-09-11,,,,,,,,,
+IR-373,individually_recognized,,,Energy metabolism,,0,1,2,2026-09-11,2,1,3,1,2,3,1,37,not_reported
+IR-374,individually_recognized,,,Fatigue,,0,0,0,2026-09-11,,,,,,,,,
+IR-375,individually_recognized,,,Bronchial health,,0,1,1,2026-09-11,4,4,4,1,3,3,4,64,not_reported
+IR-376,individually_recognized,,,Joint,,0,0,0,2026-09-11,,,,,,,,,
+IR-377,individually_recognized,,,Joint,,0,1,3,2026-09-11,5,5,4,4,1,3,4,71,not_reported
+IR-378,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-379,individually_recognized,,,Antioxidant,,0,1,3,2026-09-11,5,4,5,5,3,3,1,75,not_reported
+IR-380,individually_recognized,,,Menopause,,0,1,2,2026-09-11,5,5,5,4,3,3,3,79,not_reported
+IR-381,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-382,individually_recognized,,,Liver health,,0,1,3,2026-09-11,5,5,5,5,2,3,4,80,not_reported
+IR-383,individually_recognized,,,Antioxidant,,0,1,1,2026-09-11,2,1,4,1,2,3,2,41,not_reported
+IR-384,individually_recognized,,,Blood circulation,,0,1,3,2026-09-11,5,5,5,5,3,2,4,81,manufacturer_sponsored_or_led
+IR-385,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-386,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-387,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-388,individually_recognized,,,Muscle strength,,0,1,3,2026-09-12,5,3,4,4,3,3,3,71,not_reported
+IR-389,individually_recognized,,,Digestion/gastric,,0,1,2,2026-09-11,4,1,4,3,2,3,3,55,not_reported
+IR-390,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-391,individually_recognized,,,Blood circulation,,0,1,2,2026-09-12,4,4,4,3,4,4,4,77,independent_documented
+IR-392,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-393,individually_recognized,,,Blood glucose,,0,1,3,2026-09-11,4,3,4,3,4,3,4,71,not_reported
+IR-394,individually_recognized,,,Digestion/gastric,,0,1,4,2026-09-11,5,5,4,4,4,3,4,83,not_reported
+IR-395,individually_recognized,,,Joint,,0,1,1,2026-09-11,2,4,3,1,3,3,2,52,not_reported
+IR-396,individually_recognized,,,Antioxidant,,0,1,1,2026-09-11,4,2,4,1,2,3,1,48,not_reported
+IR-397,individually_recognized,,,Antioxidant,,0,1,3,2026-09-12,4,1,3,1,2,3,3,47,not_reported
+IR-398,individually_recognized,,,Blood circulation,,0,0,0,2026-09-13,,,,,,,,,
+IR-399,individually_recognized,,,Bronchial health,,0,0,0,2026-09-13,,,,,,,,,
+IR-400,individually_recognized,,,Prostate,,0,1,3,2026-09-11,3,2,4,4,4,3,4,68,not_reported
+IR-401,individually_recognized,,,Immune function,,0,1,2,2026-09-11,3,4,4,2,3,3,2,60,not_reported
+IR-402,individually_recognized,,,Blood circulation,,0,1,3,2026-09-12,5,5,4,5,2,3,2,74,not_reported
+IR-403,individually_recognized,,,Blood circulation,,0,1,1,2026-09-11,5,5,4,4,4,3,2,79,not_reported
+IR-404,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-405,individually_recognized,,,Digestion/gastric,,0,1,3,2026-09-12,5,2,4,3,1,4,2,58,independent_documented
+IR-406,individually_recognized,,,Skin,,0,1,2,2026-09-11,4,4,4,3,3,3,3,68,not_reported
+IR-407,individually_recognized,,,Antioxidant,,0,1,2,2026-09-11,5,4,4,4,3,3,2,72,not_reported
+IR-408,individually_recognized,,,Menopause,,0,0,0,2026-09-11,,,,,,,,,
+IR-409,individually_recognized,,,Immune function,,0,1,1,2026-09-11,5,5,4,4,4,3,2,79,not_reported
+IR-410,individually_recognized,,,Skin,,0,0,0,2026-09-11,,,,,,,,,
+IR-411,individually_recognized,,,Immune function,,0,1,2,2026-09-11,5,4,4,4,3,3,2,72,not_reported
+IR-412,individually_recognized,,,Blood circulation,,0,1,3,2026-09-11,5,5,4,5,3,3,2,78,not_reported
+IR-413,individually_recognized,,,Blood circulation,,0,1,2,2026-09-11,4,4,4,4,3,3,2,69,not_reported
+IR-414,individually_recognized,,,Muscle strength,,0,1,6,2026-09-12,5,5,5,5,4,3,2,84,not_reported
+IR-415,individually_recognized,,,Blood circulation,,0,1,4,2026-09-12,5,5,5,4,2,3,4,77,not_reported
+IR-416,individually_recognized,,,Bowel movement,,0,0,0,2026-09-11,,,,,,,,,
+IR-417,individually_recognized,,,Antioxidant,,0,1,2,2026-09-12,4,2,3,1,3,4,2,55,independent_documented
+IR-418,individually_recognized,,,Skin,,0,1,8,2026-09-12,5,5,5,5,5,2,5,91,manufacturer_sponsored_or_led
+IR-419,individually_recognized,,,Energy metabolism,,0,1,1,2026-09-11,1,1,3,1,2,3,3,38,not_reported
+IR-420,individually_recognized,,,Blood circulation,,0,0,0,2026-09-13,,,,,,,,,
+IR-421,individually_recognized,,,Bowel movement,,0,1,2,2026-09-11,4,3,4,2,2,3,3,58,not_reported
+IR-422,individually_recognized,,,Joint,,0,1,2,2026-09-11,4,2,5,4,4,3,4,73,not_reported
+IR-423,individually_recognized,,,Antioxidant,,0,1,3,2026-09-12,5,5,5,5,4,3,3,86,not_reported
+IR-424,individually_recognized,,,Sleep,,0,1,2,2026-09-11,3,3,4,2,3,3,3,59,not_reported
+IR-425,individually_recognized,,,Women's health,,0,1,2,2026-09-11,2,1,3,2,3,3,4,50,not_reported
+IR-426,individually_recognized,,,Blood circulation,,0,1,2,2026-09-11,2,1,3,2,2,3,1,40,not_reported
+IR-427,individually_recognized,,,Sleep,,0,1,2,2026-09-11,3,2,3,1,1,3,2,41,not_reported
+IR-428,individually_recognized,,,Skin,,0,0,0,2026-09-11,,,,,,,,,
+IR-429,individually_recognized,,,Stress,,0,1,5,2026-09-11,5,5,5,5,4,3,4,88,not_reported
+IR-430,individually_recognized,,,Prostate,,0,1,1,2026-09-11,3,3,3,1,1,3,1,42,not_reported
+IR-431,individually_recognized,,,Bowel movement,,0,1,1,2026-09-11,3,1,4,1,4,3,2,52,not_reported
+IR-432,individually_recognized,,,Sleep,,0,1,1,2026-09-11,2,1,4,1,3,3,3,47,not_reported
+IR-433,individually_recognized,,,Menopause,,0,0,0,2026-09-11,,,,,,,,,
+IR-434,individually_recognized,,,Digestion/gastric,,0,0,0,2026-09-11,,,,,,,,,
+IR-435,individually_recognized,,,Antioxidant,,0,1,5,2026-09-11,5,5,5,5,4,3,3,86,not_reported
+IR-436,individually_recognized,,,Bone health,,0,1,3,2026-09-11,3,1,3,2,3,3,1,47,not_reported
+IR-437,individually_recognized,,,Bowel movement,,0,1,1,2026-09-11,4,2,3,1,3,3,1,50,not_reported
+IR-438,individually_recognized,,,Bowel movement,,0,0,0,2026-09-11,,,,,,,,,
+IR-439,individually_recognized,,,Blood circulation,,0,1,3,2026-09-11,5,4,5,5,5,3,5,91,not_reported
+IR-440,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-441,individually_recognized,,,Skin,,0,0,0,2026-09-11,,,,,,,,,
+IR-442,individually_recognized,,,Antioxidant,,0,1,2,2026-09-11,4,2,4,2,3,3,3,59,not_reported
+IR-443,individually_recognized,,,Immune function,,0,0,0,2026-09-13,,,,,,,,,
+IR-444,individually_recognized,,,Immune function,,0,1,1,2026-09-11,3,4,3,1,2,3,3,53,not_reported
+IR-445,individually_recognized,,,Stress,,0,1,2,2026-09-11,4,3,3,3,4,3,5,71,not_reported
+IR-446,individually_recognized,,,Body fat,,0,1,2,2026-09-11,5,5,5,5,4,2,3,83,manufacturer_sponsored_or_led
+IR-447,individually_recognized,,,Antioxidant,,0,1,2,2026-09-11,5,5,5,5,3,3,3,82,not_reported
+IR-448,individually_recognized,,,Muscle strength,,0,1,1,2026-09-11,5,5,4,1,3,3,3,68,not_reported
+IR-449,individually_recognized,,,Gum health,,0,1,4,2026-09-12,5,5,5,4,3,4,3,82,independent_documented
+IR-450,individually_recognized,,,Bowel movement,,0,1,1,2026-09-11,5,5,5,4,2,3,3,75,not_reported
+IR-451,individually_recognized,,,Blood circulation,,0,1,1,2026-09-11,4,4,4,1,3,3,3,62,not_reported
+IR-452,individually_recognized,,,Skin,,0,1,3,2026-09-12,4,4,4,4,4,1,4,71,manufacturer_sponsored_or_led
+IR-453,individually_recognized,,,Joint,,0,1,1,2026-09-11,4,1,3,1,2,3,3,47,not_reported
+IR-454,individually_recognized,,,Muscle strength,,0,0,0,2026-09-11,,,,,,,,,
+IR-455,individually_recognized,,,Body fat,,0,1,6,2026-09-12,4,4,4,3,2,4,2,65,independent_documented
+IR-456,individually_recognized,,,Body fat,,0,1,1,2026-09-11,4,4,4,1,4,3,2,64,not_reported
+IR-457,individually_recognized,,,Blood glucose,,0,1,6,2026-09-12,5,5,5,4,3,3,4,81,not_reported
+IR-458,individually_recognized,,,Bowel movement,,0,1,2,2026-09-11,4,2,4,3,4,3,4,68,not_reported
+IR-459,individually_recognized,,,Body fat,,0,0,0,2026-09-11,,,,,,,,,
+IR-460,individually_recognized,,,Blood circulation,,0,1,1,2026-09-11,5,3,5,4,3,3,2,71,not_reported
+IR-461,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-462,individually_recognized,,,Blood circulation,,0,1,1,2026-09-12,5,2,3,1,4,2,2,56,manufacturer_sponsored_or_led
+IR-463,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-464,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-465,individually_recognized,,,Liver health,,0,0,0,2026-09-13,,,,,,,,,
+IR-466,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-467,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-468,individually_recognized,,,Blood glucose,,0,1,1,2026-09-12,5,5,5,4,4,5,4,91,independent_documented
+IR-469,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-470,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-471,individually_recognized,,,Menopause,,0,1,1,2026-09-12,2,3,3,1,3,2,4,50,manufacturer_sponsored_or_led
+IR-472,individually_recognized,,,Stress,,0,0,0,2026-09-11,,,,,,,,,
+IR-473,individually_recognized,,,Menopause,,0,0,0,2026-09-11,,,,,,,,,
+IR-474,individually_recognized,,,Menopause,,0,1,2,2026-09-11,4,4,4,3,3,3,2,66,not_reported
+IR-475,individually_recognized,,,Blood pressure,,0,1,1,2026-09-11,4,3,4,1,3,3,2,57,not_reported
+IR-476,individually_recognized,,,Joint,,0,0,0,2026-09-11,,,,,,,,,
+IR-477,individually_recognized,,,Joint,,0,0,0,2026-09-11,,,,,,,,,
+IR-478,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-479,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-480,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-481,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-482,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-483,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-484,individually_recognized,,,Immune function,,0,0,0,2026-09-11,,,,,,,,,
+IR-485,individually_recognized,,,Antioxidant,,0,1,1,2026-09-11,3,5,3,4,4,3,4,75,not_reported
+IR-486,individually_recognized,,,Fatigue,,0,0,0,2026-09-11,,,,,,,,,
+IR-487,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-488,individually_recognized,,,Bowel movement,,0,0,0,2026-09-11,,,,,,,,,
+IR-489,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-490,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-491,individually_recognized,,,Blood glucose,,0,0,0,2026-09-11,,,,,,,,,
+IR-492,individually_recognized,,,Joint,,0,0,0,2026-09-11,,,,,,,,,
+IR-493,individually_recognized,,,Digestion/gastric,,0,0,0,2026-09-11,,,,,,,,,
+IR-494,individually_recognized,,,Liver health,,0,0,0,2026-09-11,,,,,,,,,
+IR-495,individually_recognized,,,Skin,,0,0,0,2026-09-11,,,,,,,,,
+IR-496,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-497,individually_recognized,,,Skin,,0,0,0,2026-09-11,,,,,,,,,
+IR-498,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-499,individually_recognized,,,Cognitive function,,0,0,0,2026-09-11,,,,,,,,,
+IR-500,individually_recognized,,,Fatigue,,0,0,0,2026-09-11,,,,,,,,,
+IR-501,individually_recognized,,,Sleep,,0,1,2,2026-09-12,4,2,4,3,3,2,5,63,manufacturer_sponsored_or_led
+IR-502,individually_recognized,,,Blood pressure,,0,1,2,2026-09-11,4,3,3,3,4,3,4,69,not_reported
+IR-503,individually_recognized,,,Blood pressure,,0,0,0,2026-09-11,,,,,,,,,
+IR-504,individually_recognized,,,Body fat,,0,1,1,2026-09-11,4,5,4,1,4,3,2,67,not_reported
+IR-505,individually_recognized,,,Bronchial health,,0,0,0,2026-09-11,,,,,,,,,
+IR-506,individually_recognized,,,Blood glucose,,0,1,4,2026-09-11,4,2,4,4,4,3,4,71,not_reported
+IR-507,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-508,individually_recognized,,,Cognitive function,,0,1,1,2026-09-12,4,1,3,1,2,4,3,50,independent_documented
+IR-509,individually_recognized,,,Cognitive function,,0,0,0,2026-09-11,,,,,,,,,
+IR-510,individually_recognized,,,Immune function,,0,0,0,2026-09-13,,,,,,,,,
+IR-511,individually_recognized,,,Cognitive function,,0,0,0,2026-09-11,,,,,,,,,
+IR-512,individually_recognized,,,Blood circulation,,0,0,0,2026-09-11,,,,,,,,,
+IR-513,individually_recognized,,,Energy metabolism,,0,1,2,2026-09-12,5,2,5,4,2,4,1,65,independent_documented
+IR-514,individually_recognized,,,Digestion/gastric,,0,1,1,2026-09-11,2,1,4,1,3,3,1,43,not_reported
+IR-515,individually_recognized,,,Eye health,,0,1,4,2026-09-11,5,5,5,5,3,3,4,84,not_reported
+IR-516,individually_recognized,,,Antioxidant,,0,0,0,2026-09-11,,,,,,,,,
+IR-517,individually_recognized,,,Prostate,,0,1,1,2026-09-11,3,3,3,1,3,4,4,59,independent_documented
+IR-518,individually_recognized,,,Blood pressure,,0,0,0,2026-09-11,,,,,,,,,
+IR-519,individually_recognized,,,Antioxidant,,0,1,2,2026-09-11,5,5,5,2,2,3,3,69,not_reported
+IR-520,individually_recognized,,,Blood pressure,,0,1,1,2026-09-11,3,2,4,1,3,3,1,49,not_reported
+IR-521,individually_recognized,,,Blood pressure,,0,0,0,2026-09-11,,,,,,,,,
+IR-522,individually_recognized,,,Skin,2026,0,1,1,2026-09-14,5,2,2,1,3,3,3,55,not_reported
+IR-523,individually_recognized,,,Cognitive function,2026,0,0,0,2026-09-14,,,,,,,,,
+IR-524,individually_recognized,,,Muscle strength,2026,0,0,0,2026-09-14,,,,,,,,,
+IR-525,individually_recognized,,,Eye health,2026,0,0,0,2026-09-14,,,,,,,,,
+IR-526,individually_recognized,,,Muscle strength,2026,0,0,0,2026-09-14,,,,,,,,,
