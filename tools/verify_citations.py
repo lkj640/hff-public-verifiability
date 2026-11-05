@@ -98,7 +98,8 @@ def parse_pubmed(xml_bytes):
             text_of(a.find("Journal/JournalIssue/PubDate/MedlineDate"))[:4]
         art_year = text_of(a.find("ArticleDate/Year"))
         pmc = ""
-        for aid in art.iter("ArticleId"):
+        # only the article's own IDs (not IDs inside its reference list)
+        for aid in art.findall("PubmedData/ArticleIdList/ArticleId"):
             if aid.get("IdType") == "pmc":
                 pmc = text_of(aid)
         out[pmid] = {

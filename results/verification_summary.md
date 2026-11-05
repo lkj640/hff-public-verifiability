@@ -21,8 +21,8 @@ Scope: papers cited for the 406 scored ingredients (872 citations, 670 unique PM
 
 ## (c) Funding statements for ingredients graded 'funding not identified' (grade 3)
 - Ingredients graded 3: 258 (557 citations)
-- Citations with open-access full text in PMC: 206/557 (37.0%)
-- Of these, funding/COI statement present in the full text: 181/206 (87.9%)
-- Ingredients with ≥ 1 cited paper whose full text contains a funding/COI statement: 121/258 (46.9%)
+- Citations with open-access full text in PMC: 237/557 (42.5%)
+- Of these, funding/COI statement present in the full text: 218/237 (92.0%)
+- Ingredients with ≥ 1 cited paper whose full text contains a funding/COI statement: 143/258 (55.4%)
 - Citations with a COI statement in the PubMed record itself: 255
 - These ingredients need their funding grade re-assessed from the full text; the remaining grade-3 ingredients without open-access full text need manual retrieval.
