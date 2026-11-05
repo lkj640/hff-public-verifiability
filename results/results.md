@@ -5,6 +5,7 @@ Dataset: 611 recognition records (526 individually recognized, 85 notified); ass
 Individually recognized: 526 (86.1%); notified: 85 (13.9%).
 Year-coded recognition numbers: 301 records (2008–2026); recognized 2022 onwards: 225 (42.8% of pathway); no year-coded number: 225.
 Code-style numbers without notified label: 14.
+Assessment basis (scored): full text used for 49 of 406; otherwise PubMed records (title, abstract, metadata).
 
 ## 3.1 Identification of human-trial literature
 All: 406/611 = 66.4% (95% CI 62.6–70.1); not scored: 205 (33.6%).

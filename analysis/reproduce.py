@@ -76,6 +76,8 @@ say(f"Year-coded recognition numbers: {yr.notna().sum()} records ({int(yr.min())
     f"recognized 2022 onwards: {(yr >= 2022).sum()} ({pct((yr >= 2022).sum(), nIR)} of pathway); "
     f"no year-coded number: {yr.isna().sum()}.")
 say(f"Code-style numbers without notified label: {int(IR.code_style_number_without_notified_label.sum())}.")
+say(f"Assessment basis (scored): full text used for {int(S.full_text_used.sum())} of {len(S)}; "
+    f"otherwise PubMed records (title, abstract, metadata).")
 
 say("\n## 3.1 Identification of human-trial literature")
 say(f"All: {len(S)}/{nAll} = {ci(len(S), nAll)}; not scored: {nAll - len(S)} ({pct(nAll - len(S), nAll)}).")

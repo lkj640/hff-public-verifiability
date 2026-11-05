@@ -44,11 +44,12 @@ The script checks that every composite score equals Σ (grade / 5 × weight) bef
 | `scored` | 1 if at least one publicly retrievable human study or systematic review matching the ingredient and its recognized function was retained; 0 otherwise |
 | `grade_design`, `grade_sample`, `grade_journal`, `grade_repro`, `grade_effect`, `grade_coi`, `grade_safety` | Domain grades, 1–5 (see `codebook/codebook.md`) |
 | `composite_score` | Σ (grade / 5 × weight), maximum 100 |
-| `funding_category` | `manufacturer_sponsored_or_led` (funding grade 1–2), `not_reported` (3), `independent_documented` (4–5) |
+| `funding_category` | `manufacturer_sponsored_or_led` (funding grade 1–2), `not_reported` (3; no funding source identified in the records assessed), `independent_documented` (4–5) |
 | `n_retained_articles` | Number of retained publications |
+| `full_text_used` | 1 if full texts were used for the assessment; 0 if it was based on PubMed records (title, abstract, metadata) |
 | `recognition_year` | Year from year-coded recognition numbers (blank when not available) |
 
-`not_reported` means that no funding statement could be found in the retained publications. It is **not** evidence of industry funding or of a conflict of interest.
+`not_reported` means that no funding statement could be identified in the records assessed, which for most ingredients were abstracts (see Limitations). It is **not** evidence of industry funding or of a conflict of interest.
 
 ## Interpretation
 
@@ -56,8 +57,10 @@ The composite index is an investigator-developed **descriptive** index. It summa
 
 ## Limitations relevant to reuse
 
+- **AI-assisted, mostly abstract-level assessment.** A large language model (Claude, Anthropic) assisted literature searching and screening, and drafted the domain grades and the written rationales. For most ingredients these drafts were based on PubMed records (title, abstract and indexed metadata). Full texts were used for only 49 of the 406 scored ingredients (`full_text_used = 1`). The author reviewed the drafts and finalized all grades, and read the full texts of some articles, but **did not verify every grade against the full text**. Statements in the rationales that are not supported by the source cannot be excluded.
+- **The funding domain is most affected.** Funding and conflict-of-interest statements usually appear only in the full text. `funding_category = not_reported` therefore means "no funding source identified in the records assessed (mostly abstracts)". It is an upper bound on non-reporting in the full publications. The attrition and safety domains may be affected in the same way.
+- **Verification is in progress.** The planned checks are: confirming every PMID and its bibliographic details against PubMed, checking numerical statements against the source records, re-checking funding statements in the full texts, and full-text re-scoring of a stratified random sample. The results will be added to this repository and the dataset updated as a new version.
 - All inclusion decisions and grades were made by a single assessor; inter-rater reliability has not been estimated.
-- A large language model (Claude, Anthropic) assisted literature searching and first-pass extraction. All values were checked against the full texts by the author.
 - Per-ingredient search dates, exact search strings and lists of excluded records were not logged, so the searches cannot be re-run exactly.
 
 Corrections and additional human-trial evidence are welcome via an issue in this repository.

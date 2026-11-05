@@ -78,6 +78,7 @@ def main(html_path):
                 (not notified) and bool(re.match(r"^\d-\d+$", appno))),
             "scored": int(scored),
             "n_retained_articles": len(d["papers"]),
+            "full_text_used": int(str(d.get("evidenceSource") or "").startswith("논문자료")),
             "verified_date": d["verifiedAt"],
         }
         for k in DOMAINS:
